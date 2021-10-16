@@ -1,0 +1,14 @@
+.bg-black {
+  background: black;
+  color: white;
+}
+
+select {
+  margin: 5px 0;
+}
+
+.hidden {
+  display: none;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGlzdC9hcHAuY3NzIiwibWFwcGluZ3MiOiJBQUFBO0VBQ0M7RUFDQTtBQUNEOztBQUNBO0VBQ0M7QUFFRDs7QUFBQTtFQUNDO0FBR0QsQyIsInNvdXJjZXMiOlsid2VicGFjazovL215LWFwcC8uL3NyYy9hcHAuc2FzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIuYmctYmxhY2tcblx0YmFja2dyb3VuZDogYmxhY2tcblx0Y29sb3I6IHdoaXRlXG5cbnNlbGVjdFxuXHRtYXJnaW46IDVweCAwXG5cbi5oaWRkZW5cblx0ZGlzcGxheTogbm9uZSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
