@@ -14,6 +14,6 @@ if (mix.inProduction()) {
 	mix.sourceMaps().webpackConfig({ devtool: 'inline-source-map' });
 	mix.browserSync({
 		// proxy: 'localhost:8080'
-		proxy: 'http://alpine-test.test/dist'
+		proxy: 'http://alpinejs-sync-several-input.test/dist'
 	});
 }
