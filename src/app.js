@@ -108,7 +108,7 @@ Alpine.data('arrCars', () => ({
 		var arrs = carsarr.filter(
 			i => i[this.col.model] === this.model && i[this.col.year] === this.year && i[this.col.volume] === this.volume && i[this.col.type] === this.type
 		);
-		return [... new Set(arrs.map(x => x.slice(this.col.price)).flat())]
+		return arrs.map(x => x.slice(this.col.price)).flat()
 	},
 
 }))
